@@ -1,0 +1,40 @@
+.footer {
+	background-color: #000010;
+	height: 200px;
+	width: 100%;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	float:bottom;
+    bottom:0;
+	clear:both;
+	font-family:Arial;
+	}
+#leftfooter{
+   float:left;
+   width:300px;
+   margin-left:150px;
+   color:whitesmoke;
+   }
+#leftfooter1{
+   float:left;
+   width:500px;
+   margin-left:160px;
+   color:whitesmoke;
+   }
+ #leftfooter2{
+   float:left;
+   width:500px;
+   margin-left:400px;
+   color:whitesmoke;
+   float:bottom;
+   bottom:0;
+   clear:both;
+   }
+
+#rightfooter{
+   float:right;
+   width:400px;
+   color:whitesmoke;
+   }
+   
